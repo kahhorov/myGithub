@@ -73,16 +73,6 @@
 
 ---
 
-# 🧠 Currently Learning
-
-- Advanced React.js
-- Next.js
-- TypeScript
-- UI/UX Design
-- Frontend Architecture
-
----
-
 # ⚡ Fun Fact
 
 ```ts
