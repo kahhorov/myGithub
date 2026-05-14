@@ -34,11 +34,9 @@
 # 📊 GitHub Stats
 
 <div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sherjahondev&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherjahondev&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -65,7 +63,7 @@
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/kohhorovw">
+<a href="https://instagram.com/kohhorov_ice">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
