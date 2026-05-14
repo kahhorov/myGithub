@@ -57,15 +57,15 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/kohhorov">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/kohhorov">
   <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/kohhorov_ice">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
